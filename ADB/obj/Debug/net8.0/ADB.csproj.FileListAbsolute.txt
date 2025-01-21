@@ -27,3 +27,4 @@
 /home/user1/Desktop/adb/ADB/bin/Debug/net8.0/System.Text.Json.dll
 /home/user1/Desktop/adb/ADB/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
 /home/user1/Desktop/adb/ADB/obj/Debug/net8.0/ADB.csproj.Up2Date
+/home/user1/Desktop/adb/ADB/obj/Debug/net8.0/ADB.sourcelink.json
