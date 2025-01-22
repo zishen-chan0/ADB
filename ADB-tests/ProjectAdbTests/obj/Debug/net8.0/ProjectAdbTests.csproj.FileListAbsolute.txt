@@ -115,3 +115,13 @@
 /home/user1/Desktop/adb/ADB-tests/ProjectAdbTests/obj/Debug/net8.0/ProjectAdbTests.pdb
 /home/user1/Desktop/adb/ADB-tests/ProjectAdbTests/obj/Debug/net8.0/ProjectAdbTests.genruntimeconfig.cache
 /home/user1/Desktop/adb/ADB-tests/ProjectAdbTests/obj/Debug/net8.0/ref/ProjectAdbTests.dll
+/home/user1/Desktop/adb/ADB-tests/ProjectAdbTests/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/user1/Desktop/adb/ADB-tests/ProjectAdbTests/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/user1/Desktop/adb/ADB-tests/ProjectAdbTests/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/user1/Desktop/adb/ADB-tests/ProjectAdbTests/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/user1/Desktop/adb/ADB-tests/ProjectAdbTests/bin/Debug/net8.0/Microsoft.Extensions.Logging.Configuration.dll
+/home/user1/Desktop/adb/ADB-tests/ProjectAdbTests/bin/Debug/net8.0/Microsoft.Extensions.Logging.Console.dll
+/home/user1/Desktop/adb/ADB-tests/ProjectAdbTests/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/user1/Desktop/adb/ADB-tests/ProjectAdbTests/bin/Debug/net8.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/user1/Desktop/adb/ADB-tests/ProjectAdbTests/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/home/user1/Desktop/adb/ADB-tests/ProjectAdbTests/obj/Debug/net8.0/ProjectAdbTests.sourcelink.json

@@ -12,16 +12,13 @@ class Program
         using ILoggerFactory loggerFactory = LoggerFactory.Create(builder => builder.AddConsole());
         ILogger logger = loggerFactory.CreateLogger("Program");
 
-        var configuration;
-        var adbCommands;
-
         try{
             // Build configuration and Retrieve ADB commands
-            configuration = new ConfigurationBuilder()
+            var configuration = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json")
                 .Build();
-            adbCommands = configuration.GetSection("AdbCommands").Get<Dictionary<string, string>>();
+            var adbCommands = configuration.GetSection("AdbCommands").Get<Dictionary<string, string>>();
 
             // Create an instance of AdbCommandRunner
             AdbCommandRunner runner = new AdbCommandRunner(configuration);
