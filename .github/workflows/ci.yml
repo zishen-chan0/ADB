@@ -18,6 +18,14 @@ jobs:
         with:
           dotnet-version: "8.0.x"
 
+      - name: Install ADB
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget unzip
+          wget https://dl.google.com/android/repository/platform-tools-latest-linux.zip
+          unzip platform-tools-latest-linux.zip -d $HOME
+          echo "$HOME/platform-tools" >> $GITHUB_PATH
+
       - name: Restore dependencies
         run: dotnet restore
 
